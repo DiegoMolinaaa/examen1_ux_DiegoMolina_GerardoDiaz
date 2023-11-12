@@ -10,9 +10,6 @@ function launchInicio() {
         <section id="Informacion_Inicio">
             <Tarjetas />
         </section>
-        <section id="Footer">
-
-        </section>
     </div>
   );
 }

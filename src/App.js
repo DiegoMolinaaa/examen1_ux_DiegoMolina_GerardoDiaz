@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import NavBar from './components/NavBar'
 import Inicio from './components/Inicio'
+import Footer from './components/footer'
 import React, { useState } from 'react';
 import { handleClick } from './components/funciones';
 import Tarjetas from './components/tarjetaUX';
@@ -42,6 +43,7 @@ function App() {
           <Tarjetas2 />
         </div>
       )}
+      <Footer />
     </div>
   );
 }
