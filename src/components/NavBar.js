@@ -26,7 +26,7 @@ function NavBar({ setPaginaActual }) {
   };
   
   return (
-    <Navbar expand="lg" className="bg-body-tertiary" fixed="top">
+    <Navbar id="navBar" expand="lg" className="bg-body-tertiary" fixed="top">
       <Container>
         <Navbar.Brand href="/">
             <img
