@@ -11,7 +11,6 @@ function launchTarjetasInicio() {
           <Card.Text>
            La clase de Experiencia de Usuario se enfoca en explorar y comprender cómo los usuarios interactúan con productos y servicios digitales, y cómo diseñar soluciones que satisfagan sus necesidades y expectativas.
           </Card.Text>
-          <Button variant="primary">Go somewhere</Button>
         </Card.Body>
       </Card>
     );
